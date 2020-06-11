@@ -1,5 +1,5 @@
 Hello Git and Github
-Edit 01
+Edit 01 by Kenji
 
 これはリポジトリを複数のマシンで世代管理を行うデストデータである
 内容01
